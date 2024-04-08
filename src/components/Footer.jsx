@@ -1,7 +1,6 @@
 const Footer = () => {
   return (
-    <footer>
-      <hr />
+    <footer className="p-4 text-center">
       <p>
         <a href="/">Visit our website</a>
       </p>
